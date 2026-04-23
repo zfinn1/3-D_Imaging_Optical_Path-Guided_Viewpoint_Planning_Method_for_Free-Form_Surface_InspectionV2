@@ -34,7 +34,7 @@
 ```bash
 [git clone https://github.com/yourusername/IOP-VP.git](https://github.com/zfinn1/3-D_Imaging_Optical_Path-Guided_Viewpoint_Planning_Method_for_Free-Form_Surface_InspectionV2.git)
 ```
-### ST
+### STAT
 Prepare your 3D model and then put it into the csxh50.m file to start.
 
 
